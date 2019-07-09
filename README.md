@@ -1,3 +1,6 @@
+# GPU Gems
+- https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html
+
 # Tesellation
 ## Displacement mapping
 - 테셀레이션과 변위 매핑
