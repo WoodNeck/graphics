@@ -16,3 +16,7 @@
   - http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching
 - SDF (Signed Distance Function)
   - http://iquilezles.org/www/articles/distfunctions/distfunctions.htm
+
+# NPR
+- Guilty Gear Shader: How does it work?: https://www.dropbox.com/s/65cwf6kjuezhwdl/GuilltyGearXrd_shader.pdf?dl=0
+- Ray Tracing NPR-Style Feature Lines: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.170.3032&rep=rep1&type=pdf
