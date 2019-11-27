@@ -23,3 +23,7 @@
 
 # WebGL
 - WebGL에서 Geometry shader 에뮬레이션: https://acko.net/blog/yak-shading/
+
+# VR
+## Head tracking
+- Head Tracking for Desktop VR Displays using the WiiRemote: https://youtu.be/Jd3-eiid-Uw
