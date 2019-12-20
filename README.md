@@ -23,6 +23,8 @@
 # Post Processing
 ## Palette swap
 - Kyle Pulver - Index Palette Shader: http://kpulv.com/368/Index_Palette_Shader/
+- Makin' Stuff Look Good - Shaders Case Study - Pixel Art Palette Swapping: https://www.youtube.com/watch?v=u4Iz5AJa31Q
+
 ## Dithering
 - Joel Yliluoma's arbitrary-palette positional dithering algorithm: https://bisqwit.iki.fi/story/howto/dither/jy/
 - Ronja's Shader Tutorials - Dithering: https://www.ronja-tutorials.com/2019/05/11/dithering.html
