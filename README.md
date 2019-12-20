@@ -21,6 +21,8 @@
 - Ray Tracing NPR-Style Feature Lines: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.170.3032&rep=rep1&type=pdf
 
 # Post Processing
+## Palette swap
+- Kyle Pulver - Index Palette Shader: http://kpulv.com/368/Index_Palette_Shader/
 ## Dithering
 - Joel Yliluoma's arbitrary-palette positional dithering algorithm: https://bisqwit.iki.fi/story/howto/dither/jy/
 - Ronja's Shader Tutorials - Dithering: https://www.ronja-tutorials.com/2019/05/11/dithering.html
