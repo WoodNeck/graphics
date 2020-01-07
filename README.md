@@ -29,6 +29,9 @@
 - Joel Yliluoma's arbitrary-palette positional dithering algorithm: https://bisqwit.iki.fi/story/howto/dither/jy/
 - Ronja's Shader Tutorials - Dithering: https://www.ronja-tutorials.com/2019/05/11/dithering.html
 
+## Outline
+- Edge Detection via Shader not Image Effect: https://forum.unity.com/threads/edge-detection-via-shader-not-image-effect.368922/#post-2389056
+
 # WebGL
 - WebGL에서 Geometry shader 에뮬레이션: https://acko.net/blog/yak-shading/
 
