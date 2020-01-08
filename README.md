@@ -41,3 +41,6 @@
 # VR
 ## Head tracking
 - Head Tracking for Desktop VR Displays using the WiiRemote: https://youtu.be/Jd3-eiid-Uw
+
+# Shader Techniques
+- Triplanar mapping by Matin Palko: https://www.martinpalko.com/triplanar-mapping/
