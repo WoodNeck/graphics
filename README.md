@@ -44,3 +44,4 @@
 
 # Shader Techniques
 - Triplanar mapping by Matin Palko: https://www.martinpalko.com/triplanar-mapping/
+- Animating thousands of fish with MultiMeshInstance from Godot engine docs: https://docs.godotengine.org/ko/latest/tutorials/3d/vertex_animation/animating_thousands_of_fish.html
