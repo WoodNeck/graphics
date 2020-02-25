@@ -37,6 +37,7 @@
 
 # WebGL
 - WebGL에서 Geometry shader 에뮬레이션: https://acko.net/blog/yak-shading/
+- WebGL Optimization: https://emscripten.org/docs/optimizing/Optimizing-WebGL.html
 
 # Pixel art
 - Achieve Crisp Pixel Art with Unity 2018.2! - Pixel Perfect: https://youtu.be/CU4YjSZNTnY
