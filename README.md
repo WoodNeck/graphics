@@ -15,6 +15,7 @@
 
 # PBR
 - PBR이란 무엇인가: https://lifeisforu.tistory.com/category/Physically%20Based%20Rendering
+- Frostbite engine PBR: https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf
 
 # NPR
 - Guilty Gear Shader: How does it work?: https://www.dropbox.com/s/65cwf6kjuezhwdl/GuilltyGearXrd_shader.pdf?dl=0
