@@ -24,6 +24,9 @@
 # Procedural Texture
 - Intro to Procedural Textures by Shea McCombs: http://www.upvector.com/?section=Tutorials&subsection=Intro%20to%20Procedural%20Textures
 
+# Simulation
+- Fluid simulation - "Me and my neighborhood" by wyatt: http://wyattflanders.com/MeAndMyNeighborhood.pdf
+
 # Post Processing
 ## Palette swap
 - Kyle Pulver - Index Palette Shader: http://kpulv.com/368/Index_Palette_Shader/
