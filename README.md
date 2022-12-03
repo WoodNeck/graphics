@@ -20,6 +20,7 @@
 # NPR
 - Guilty Gear Shader: How does it work?: https://www.dropbox.com/s/65cwf6kjuezhwdl/GuilltyGearXrd_shader.pdf?dl=0
 - Ray Tracing NPR-Style Feature Lines: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.170.3032&rep=rep1&type=pdf
+- Blender NPR(*Dedicated to Non-Photorealistic and Expressive Rendering*): https://blendernpr.org/posts/
 
 # Procedural Texture
 - Intro to Procedural Textures by Shea McCombs: http://www.upvector.com/?section=Tutorials&subsection=Intro%20to%20Procedural%20Textures
